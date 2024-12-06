@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "aplicacion",
+    "slug": "aplicacion",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "supabaseUrl": "https://yijfpqvfjleyaojmuhas.supabase.co",
+      "supabaseAnonKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InlpamZwcXZmamxleWFvam11aGFzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MjcxMTk5ODAsImV4cCI6MjA0MjY5NTk4MH0.7t6IDOld24nIOjE5xgqe14i0KBEmNzW_YZ57jFY08NI"
+    }
+  }
+}
